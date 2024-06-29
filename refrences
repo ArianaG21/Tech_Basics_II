@@ -1,0 +1,22 @@
+sources outside of this course which were helpful for the moonchildren app;
+
+sources regarding the ephem library:
+https://pypi.org/project/ephem/
+https://itheo.tech/calculate-todays-moon-phase-using-python-ephem-and-unittest-a-comprehensive-guide
+https://github.com/itinstructor/MoonPhase (a moon phase app on github, this is how I got to know about this library)
+https://www.iditect.com/faq/python/moon--lunar-phase-algorithm-in-python.html
+https://www.youtube.com/watch?v=z5SEfkwHg30
+
+regarding the enumerate function:
+https://realpython.com/python-enumerate/
+https://pythonbasics.org/enumerate/
+https://blog.hubspot.com/website/python-enumerate
+
+regarding canvas widget in tkinter:
+https://www.pythontutorial.net/tkinter/tkinter-canvas/
+https://www.tutorialspoint.com/python/tk_canvas.htm
+https://www.geeksforgeeks.org/python-tkinter-canvas-widget/
+
+sources regarding customtkinter:
+https://www.youtube.com/playlist?list=PLfZw_tZWahjxJl81b1S-vYQwHs_9ZT77f
+https://www.youtube.com/watch?v=MvzK9Oguxcg&list=PLpMixYKO4EXcKoRTvN0FdNaUNobV0QGFQ&index=4&t=1s
